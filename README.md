@@ -1,13 +1,12 @@
+
 # Agenda Unicesumar
 Projeto em linguagem Python. O programa requisitado como Prova de Conceitos é uma versão beta (versão de inicial), onde são armazenados, temporariamente, os dados de contato de uma agenda.
 ![Agenda](https://user-images.githubusercontent.com/76622589/236109048-d7ecac50-f739-4ba5-affd-7db33409c5fa.png)
-
-
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 ## Badges
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 ![Last Commit](https://img.shields.io/github/last-commit/arlindomcorrea/automation_project)
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 ## Índice 
 
 * [Título e Imagem de capa](#Título-e-Imagem-de-capa)
@@ -21,9 +20,9 @@ Projeto em linguagem Python. O programa requisitado como Prova de Conceitos é u
 * [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
 * [Licença](#licença)
 * [Conclusão](#conclusão)
-## Features
+## Funcionalidades e Demonstração da Aplicação
 
-Para cada registro, deverá é armazenado as seguintes informações:
+Para cada registro, é armazenado as seguintes informações:
 
 Nome;
 
@@ -63,4 +62,4 @@ O programa apresenta um menu de opções ao usuário:
 
 6 – Encerrar: o programa deve ser encerrado se, e somente se, o usuário escolher essa opção.
 
-Caso o usuário escolha uma opção que não conste no menu, o programa deverá exibir uma mensagem de erro como, por exemplo, “Erro: opção inválida!”; retornando ao menu logo em seguida.
+Caso o usuário escolha uma opção que não conste no menu, o programa exibirá uma mensagem de erro como: “Erro: opção inválida! ; retornando ao menu logo em seguida.
