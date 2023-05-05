@@ -4,15 +4,14 @@ Projeto em linguagem Python. O programa requisitado como Prova de Conceitos é u
 ![Agenda](https://user-images.githubusercontent.com/76622589/236109048-d7ecac50-f739-4ba5-affd-7db33409c5fa.png)
 #
 ## Índice 
-* [Título e Imagem de capa](#Título-e-Imagem-de-capa)
+* [Título e Imagem de capa](#agenda-unicesumar)
 * [Status do Projeto](#status-do-projeto)
 * [Licença](#licença)
 * [Badges](#badges)
 * [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
 * [Acesso ao Projeto](#acesso-ao-projeto)
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
-* [Pessoas Contribuidoras](#pessoas-contribuidoras)
-* [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
+* [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras-do-projeto)
 * [Conclusão](#conclusão)
 
 ## Status do Projeto
@@ -63,8 +62,28 @@ O programa apresenta um menu de opções ao usuário:
 
 4 –	Procurar pessoa na Agenda:  ao selecionar essa opção, o usuário deverá indicar o nome do contato que deseja visualizar os dados, caso seja encontrado apresentar os dados do mesmo na tela, caso não encontrado indicar: Pessoa com o nome XXX não encontrada;
 
+
 5 –	Excluir pessoa da Agenda:  ao selecionar essa opção, o usuário deverá indicar o nome do contato que deseja excluir os dados, caso seja encontrado excluir o mesmo e escrever na tela “Cadastro excluído”, caso não encontrado indicar: Pessoa com o nome XXX não encontrada;
 
 6 – Encerrar: o programa deve ser encerrado se, e somente se, o usuário escolher essa opção.
 
 Caso o usuário escolha uma opção que não conste no menu, o programa exibirá uma mensagem de erro como: “Erro: opção inválida! ; retornando ao menu logo em seguida.
+
+## Acesso ao Projeto
+Você pode [acessar o código fonte do projeto](https://github.com/arlindomcorrea/automation_project) ou [baixá-lo](https://github.com/arlindomcorrea/automation_project/archive/refs/heads/main.zip).
+
+## Tecnologias utilizadas
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+## Pessoas Desenvolvedoras do Projeto
+| [<img src="https://avatars.githubusercontent.com/u/76622589?v=4" width=115><br><sub>Arlindo Martins Corrêa</sub>](https://github.com/arlindomcorrea) |
+| :---: |
+
+## Conclusão
+Disciplina: Fundamentos de Programação com Python
+Objetivo da disciplina
+Mobilizar as competências de aplicar os conceitos básicos da linguagem Python e compreender como identificar erros de processos na programação.E as habilidades de Instalação de software para a linguagem python e declarar dados de váriaveis, tipo de string, inteiro e etc.
+
+Ementa
+Utilização e histórico de linguagem de programação Python. Maneira de instalação e preparação do ambiente para a linguagem Python.  Tipos de dados em Python: string, inteiro, tupla, dicionários, listas. Estrutura sequencial, estrutura de decisão, estrutura de de repetição. Manipulação de strings. Tratamento de erros e exceções. Realização de algoritmos utilizando Python.
