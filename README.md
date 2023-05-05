@@ -1,27 +1,32 @@
-
 # Agenda Unicesumar
 Projeto em linguagem Python. O programa requisitado como Prova de Conceitos é uma versão beta (versão de inicial), onde são armazenados, temporariamente, os dados de contato de uma agenda.
+#
 ![Agenda](https://user-images.githubusercontent.com/76622589/236109048-d7ecac50-f739-4ba5-affd-7db33409c5fa.png)
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
-## Badges
-
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-![Last Commit](https://img.shields.io/github/last-commit/arlindomcorrea/automation_project)
+#
 ## Índice 
-
 * [Título e Imagem de capa](#Título-e-Imagem-de-capa)
+* [Status do Projeto](#status-do-projeto)
+* [Licença](#licença)
 * [Badges](#badges)
-* [Índice](#índice)
-* [Status do Projeto](#status-do-Projeto)
 * [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
 * [Acesso ao Projeto](#acesso-ao-projeto)
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
 * [Pessoas Contribuidoras](#pessoas-contribuidoras)
 * [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
-* [Licença](#licença)
 * [Conclusão](#conclusão)
-## Funcionalidades e Demonstração da Aplicação
 
+## Status do Projeto
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+
+## Licença
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+
+## Badges
+![Last Commit](https://img.shields.io/github/last-commit/arlindomcorrea/automation_project)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+## Funcionalidades e Demonstração da Aplicação
 Para cada registro, é armazenado as seguintes informações:
 
 Nome;
